@@ -30,7 +30,7 @@
 - 💬 Ask me about **Web Security, API Pentesting, Python Automation, OSINT, Recon, Auth Bypass**
 - 📄 My Resume → [View CV](https://ikramulmolla.github.io/portfolio/image/ikramulmollacv.pdf)
 - 🔗 Portfolio → https://ikramulmolla.github.io/portfolio/
-- 📫 Reach me → **mailmeikramul@gmail.com**
+- 📫 Reach me → **ikramulmolla61@gmail.com**
 
 ---
 
